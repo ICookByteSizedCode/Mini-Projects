@@ -1,4 +1,4 @@
-##A basic implementation of 2 games
+## A basic implementation of 2 games
 
 We have to really popular games, namely hangman and tic-tac-toe.
 
